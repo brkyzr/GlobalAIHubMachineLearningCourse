@@ -1,8 +1,8 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** **Berkay**  
+**Course Date:** 19.04.2020  
+**Name:** Berkay 
 **Surname:** Yazar  
 **Email:** mr.brkyzr@gmail.com  
 
